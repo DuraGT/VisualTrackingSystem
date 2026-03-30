@@ -588,5 +588,3 @@ This project uses:
 All open-source and widely used in academic/industry projects.
 
 ---
-
-Good luck!
